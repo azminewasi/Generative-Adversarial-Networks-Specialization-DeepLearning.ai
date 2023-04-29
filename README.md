@@ -1,6 +1,12 @@
 # Generative Adversarial Networks (GANs) Specialization
 
 ---
+
+![](GAN-banner.jpg)
+
+## Azmine Toushik Wasi - [Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/8PS3WY2JDXQN)
+---
+
 # About this Specialization
 ## About GANs
 Generative Adversarial Networks (GANs) are powerful machine learning models capable of generating realistic image, video, and voice outputs. 
